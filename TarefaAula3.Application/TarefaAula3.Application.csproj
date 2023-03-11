@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TarefaAula3.Core\TarefaAula3.Core.csproj" />
+    <ProjectReference Include="..\TarefaAula3.Repository\TarefaAula3.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
